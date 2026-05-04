@@ -1,11 +1,8 @@
-
 .venv/
-
 __pycache__/
-
 .chalice/config.json
-
+.chalice/deployed/
+nba-odds-chaos/.chalice/config.json
+nba-odds-chaos/.chalice/deployed/
 *.pyc
-
 .DS_Store
-
