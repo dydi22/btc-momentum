@@ -1,0 +1,11 @@
+
+.venv/
+
+__pycache__/
+
+.chalice/config.json
+
+*.pyc
+
+.DS_Store
+
